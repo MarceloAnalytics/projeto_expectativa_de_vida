@@ -2,6 +2,7 @@
  Baseado em dados Socio Econômicos, esse projeto ajuda a responder como seriam a expectativa de vida de pessoas (em anos).
 
  Esses dados foram coletados no link abaixo (são dados públicos) e foram a nossa base do projeto
+ 
  link = https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-life-expectancy-and-healthy-life-expectancy
 
  A ideia desse projeto é de trabalhar com modelos de regressão linear (com algumas variações) bem como em um determinado momento, irei utilizar o Random Forest para usar um dos métodos dele
