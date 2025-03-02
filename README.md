@@ -9,3 +9,5 @@
  O Random Forest usei como meio, não como o algorítimo final do projeto.
 
  Também foi utilizado análises de correlação, análise de multicolinearidade, outliers...enfim, um projeto bastante completo até o deploy do modelo e aplicação com novos dados.
+
+ Está disponível além dos dados iniciais, os novos dados para o deploy, bem como o modelo treinado (foi realizado uma avaliação e escolhido dentre 5 versões de modelo), e o padronizador.
